@@ -97,6 +97,7 @@ The following skills and concepts were used:
 
 - Pivot Table: Monthly total revenue for each year.
 - Chart: A line chart to visualize the revenue trends over the years.
+  
 6. Percentage Change in Revenue by Quarters in Year
 
 - Pivot Table: Calculate the percentage change in revenue for each quarter.
@@ -110,6 +111,9 @@ The following skills and concepts were used:
 - The percentage change in revenue by quarters is essential for understanding seasonal variations and planning accordingly.
 
 By presenting the data in an accessible and visual manner, these insights become actionable for business strategies and improvements.
+
+## Pivot Table Analysis 
+
 
 ## Conclusion
 
