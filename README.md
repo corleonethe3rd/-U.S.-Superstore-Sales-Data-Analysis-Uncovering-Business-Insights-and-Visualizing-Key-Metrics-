@@ -112,7 +112,12 @@ The following skills and concepts were used:
 
 By presenting the data in an accessible and visual manner, these insights become actionable for business strategies and improvements.
 
-## Pivot Table Analysis 
+## Data Visualization image
+![Screenshot 2023-10-26 084109](https://github.com/corleonethe3rd/-U.S.-Superstore-Sales-Data-Analysis-Uncovering-Business-Insights-and-Visualizing-Key-Metrics-/assets/73728752/87f6cfc2-04fc-4eb4-bc7d-a2295a4ba932)
+
+## Pivot Table Analysis image
+![Screenshot 2023-10-26 084015](https://github.com/corleonethe3rd/-U.S.-Superstore-Sales-Data-Analysis-Uncovering-Business-Insights-and-Visualizing-Key-Metrics-/assets/73728752/720cad6f-7cae-4e5c-8a70-30017dac72b1)
+
 
 
 ## Conclusion
